@@ -55,3 +55,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 
 Last updated: 2026-09-26
+
+
+## 🙌 Support
+If you like this project, consider giving it a ⭐ on GitHub!
