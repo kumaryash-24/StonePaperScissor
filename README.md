@@ -45,6 +45,7 @@ Welcome to the **Rock Paper Scissors** game! A fun and interactive web-based gam
 - 🌍 Multiplayer mode
 - 🎵 Sound effects for a better experience
 - 🏆 Leaderboard system
+- ⌨️ Keyboard shortcuts for quicker play
 
 ## 📝 License
 
